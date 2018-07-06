@@ -5,11 +5,23 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Welcome to Spring Web MVC project</title>
+        <link rel="stylesheet" type="text/css" media="screen" href="/resources/css/menu.css" />
+
+
+        <title>Develop projects</title>
     </head>
 
     <body>
         <h1>Devlp</h1>
-        <p><i>This is summary develop projects</i></p>
+        
+        <div id='cssmenu'>
+            <ul>
+                <li class='active'><a href='#'>Servers</a></li>
+               <li><a href='#'>HRIS</a></li>
+               <li><a href='#'>Kompas</a></li>
+               <li><a href='#'>Admin</a></li>
+            </ul>
+        </div>
+        
     </body>
 </html>
