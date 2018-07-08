@@ -5,7 +5,8 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link rel="stylesheet" type="text/css" media="screen" href="/resources/css/menu.css" />
+        <link href="resources/css/menu.css" rel="stylesheet">
+
 
 
         <title>Develop projects</title>
@@ -16,10 +17,10 @@
         
         <div id='cssmenu'>
             <ul>
-                <li class='active'><a href='#'>Servers</a></li>
-               <li><a href='#'>HRIS</a></li>
-               <li><a href='#'>Kompas</a></li>
-               <li><a href='#'>Admin</a></li>
+               <li class='active'><a href="/servers">Servers</a></li>
+               <li><a href='/hris'>HRIS</a></li>
+               <li><a href='/kompas'>Kompas</a></li>
+               <li><a href='/admin'>Admin</a></li>
             </ul>
         </div>
         
